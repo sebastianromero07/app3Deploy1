@@ -2,7 +2,7 @@
 
  services:
    api-students:
-     iamges: sebastianromero07/api-students
+     images: sebastianromero07/api-students
      ports:
        - 8000:8000
    websimple:
